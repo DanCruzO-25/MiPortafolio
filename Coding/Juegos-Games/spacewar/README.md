@@ -9,7 +9,7 @@ Desarrollar un juego completo en Pygame como práctica de programación estructu
 
 ---
 
-## 🧠 Lo que implementé
+## Lo que se implementó
 
 ✔️ Sistema de jugador con vidas, reaparición y enfriamiento de disparo  
 ✔️ Patrón de movimiento sinusoidal para enemigos  
@@ -60,6 +60,7 @@ python main.py
 
 > **Importante:** el juego requiere los siguientes archivos de imagen en el mismo directorio:  
 > `background.jpg`, `ship.png`, `enemy.webp`, `bullet.png`, `lose.jpg`
+> El no tener las imagenes en el mismo folder, el mismo no podrá ser corrido
 
 ---
 
