@@ -1,6 +1,6 @@
 const listaPokemon = document.querySelector("#listaPokemon");
 const botonesHeader = document.querySelectorAll(".btn-header");
-const modal = document.getElementById("modal"); // 👈 cambiado
+const modal = document.getElementById("modal");
 const cerrarModal = document.getElementById("cerrarModal");
 
 let URL = "https://pokeapi.co/api/v2/pokemon/";
@@ -109,5 +109,6 @@ modal.addEventListener("click", (e) => {
         modal.style.display = "none";
     }
 });
+
 
 cargarPokemon();
