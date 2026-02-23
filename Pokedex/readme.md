@@ -16,9 +16,3 @@ La idea del proyecto fue tomada de este video de YouTube: [Video Original](https
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla JS)**
-
-## Cómo Ejecutar el Proyecto
-
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-proyecto.git
