@@ -15,4 +15,5 @@ La idea del proyecto fue tomada de este video de YouTube: [Video Original](https
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
+- **JavaScript**
+
