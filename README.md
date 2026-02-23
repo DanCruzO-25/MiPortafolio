@@ -16,7 +16,7 @@ El objetivo principal de este espacio es **mostrar mis proyectos y avances perso
 
 - **Web:** HTML5, CSS3, JavaScript
 - **Programación:** Java, Python, C++
-- Otros lenguajes y herramientas que vaya aprendiendo.
+- Otros lenguajes yherramientas como frameworks y/o sistemas gestores de bases de datos que vaya aprendiendo.
 
 ---
 
